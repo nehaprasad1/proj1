@@ -1,8 +1,11 @@
+
+application/config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-application/config.py
+
 
 # C extensions
 *.so
