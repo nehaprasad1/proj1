@@ -1,1 +1,1 @@
-# proj1 
+# neural network from scratch
